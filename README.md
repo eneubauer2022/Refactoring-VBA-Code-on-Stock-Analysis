@@ -4,9 +4,23 @@
 I was asked to refactor a macro that was written in response to analyzing how green stocks performed on the market over several years. This would help Steve (and his parents) decide where they should invest their money in the future. The goal was to to loop through all the data at once, hopefully creating a more efficient macro that produced results in a shorter time span than the original code. By doing this, Steve could analyze all 11 stocks and their data quickly in a clean, clear format to present to his parents. 
 
 ## Results
-From the results, we are able to see that the stock performed better in 2017 compared to 2018. In 2017, all but 1 stock (TERP) had a positive return. However in 2018, all but two stocks (ENPH & RUN) had negative returns. The refactored code did end up producing faster results. The results from 2017 ran 81% faster than when performed with the original code, while the refactored code for 2018 ran 84% faster. This will make it easier to analyze all the data and make a better judgement call on which stocks to choose in the future. 
+From the results, we are able to see that the stock performed better in 2017 compared to 2018. In 2017, all but 1 stock (TERP) had a positive return.
 
-![this is an image](https://github.com/eneubauer2022/Refactoring-VBA-Code-on-Stock-Analysis/commit/41fbcca9fbcb46c5a50c8910d81f4bbcc4128319#diff-e25a5974a639f075d3c5cdb4b96a17f77334d746c57681349e2d91ab0aa93146)
+![this is an image](https://github.com/eneubauer2022/Refactoring-VBA-Code-on-Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+However in 2018, all but two stocks (ENPH & RUN) had negative returns. 
+
+![this is an image](https://github.com/eneubauer2022/Refactoring-VBA-Code-on-Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+The refactored code did end up producing faster results. The results from 2017 ran 81% faster than when performed with the original code, while the refactored code for 2018 ran 84% faster (please see the screenshots below that show the oringial timers for the code before it was refactored). 
+
+
+
+
+
+This will make it easier to analyze all the data and make a better judgement call on which stocks to choose in the future. 
+
+
 
 ## Code
 ```
