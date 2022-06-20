@@ -6,6 +6,8 @@ I was asked to refactor a macro that was written in response to analyzing how gr
 ## Results
 From the results, we are able to see that the stock performed better in 2017 compared to 2018. In 2017, all but 1 stock (TERP) had a positive return. However in 2018, all but two stocks (ENPH & RUN) had negative returns. The refactored code did end up producing faster results. The results from 2017 ran 81% faster than when performed with the original code, while the refactored code for 2018 ran 84% faster. This will make it easier to analyze all the data and make a better judgement call on which stocks to choose in the future. 
 
+![https://github.com/eneubauer2022/Refactoring-VBA-Code-on-Stock-Analysis/commit/41fbcca9fbcb46c5a50c8910d81f4bbcc4128319#diff-e25a5974a639f075d3c5cdb4b96a17f77334d746c57681349e2d91ab0aa93146]
+
 ## Code
 ```
 ') Create a ticker Index
