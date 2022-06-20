@@ -1,7 +1,7 @@
 # Refactoring VBA Code on Stock Analysis
 
 ## Overview of Project
-I was asked to refactor a macro that was written in response to analyzing how green stocks performed on the market over several years. This would help Steve (and his parents) decide where they should invest their money in the future. The goal was to to loop through all the data at once, hopefully creating a more efficient macro that produced results in a shorter time span than the original code. By doing this, Steve could analyze all 11 stocks and their data quickly in a clean, clear format to present to his parents. 
+I was asked to refactor a macro that was written in response to analyzing how green stocks performed on the market over several years. This would help Steve (and his parents) decide where they should invest their money in the future. The goal was to to loop through all the data at once, hopefully creating a more efficient macro that produced results in a shorter time span than the original code. By doing this, Steve could analyze all 12 stocks and their data quickly in a clean, clear format to present to his parents. 
 
 ## Results
 From the results, we are able to see that the stock performed better in 2017 compared to 2018. In 2017, all but 1 stock (TERP) had a positive return.
