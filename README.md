@@ -14,7 +14,11 @@ However in 2018, all but two stocks (ENPH & RUN) had negative returns.
 
 The refactored code did end up producing faster results. The results from 2017 ran 81% faster than when performed with the original code, while the refactored code for 2018 ran 84% faster (please see the screenshots below that show the oringial timers for the code before it was refactored). 
 
+### 2017 results before refactoring
+![this is an image](https://github.com/eneubauer2022/Refactoring-VBA-Code-on-Stock-Analysis/blob/main/Resources/All%20Stocks%20Timer%202017%20Before%20Refactoring.png)
 
+### 2018 results before refactoring
+![this is an image](https://github.com/eneubauer2022/Refactoring-VBA-Code-on-Stock-Analysis/blob/main/Resources/All%20Stocks%20Timer%202018%20Before%20Refactoring.png)
 
 
 
