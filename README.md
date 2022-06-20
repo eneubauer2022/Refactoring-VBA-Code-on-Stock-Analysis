@@ -87,7 +87,7 @@ This will make it easier to analyze all the data and make a better judgement cal
     Next i
 ```
 ## Summary 
-The clear advantage of refactoring code is that it can make the process more efficient. It is also more concise and easier for someone else to read and replicate in the future. It can make the debugging process easier within VBA. Overall, refactoring, if done correctly, can really optimized the performance of code in general.
+The clear advantage of refactoring code is that it can make the process more efficient. It is also more concise and easier for someone else to read and replicate in the future. It can make the debugging process easier within VBA. Overall, refactoring, if done correctly, can optimize the performance of code in general.
 
 However, sometimes refactoring can present problems. Refactoring may become cumbersome and too complicated for the coder; taking up too much time and overcomplicating the process. It can also alter the outcomes if not thoroughly tested and results compared against the original code. 
 
